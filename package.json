@@ -32,7 +32,7 @@
         "html-minify": "^0.3.2",
         "html-webpack-plugin": "^3.2.0",
         "mini-css-extract-plugin": "^0.8.0",
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.13.1",
         "optimize-css-assets-webpack-plugin": "^5.0.1",
         "php-loader": "^0.2.0",
         "postcss-loader": "^3.0.0",
