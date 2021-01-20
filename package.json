@@ -50,7 +50,7 @@
     "dependencies": {
         "@dogstudio/highway": "^2.1.2",
         "glsl-noise": "^0.0.0",
-        "gsap": "^3.0.1",
+        "gsap": "^3.6.0",
         "intersection-observer": "^0.7.0",
         "lodash.debounce": "^4.0.8",
         "lodash.throttle": "^4.1.1",
